@@ -12,7 +12,7 @@ And computation results will be at the main page `localhost:8000`
  - Python >= 3.7
 
 `Makefile` can be used to run few simple commands like `requirements`,
-`run`, `lint`.
+`run`, `lint` and `tests`.
 
 `pip-tools` is using to manage requirements
 

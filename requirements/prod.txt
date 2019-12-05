@@ -8,7 +8,7 @@ babel==2.7.0              # via py-money
 click==7.0                # via uvicorn
 dnspython==1.16.0         # via email-validator
 email-validator==1.0.5
-fastapi==0.44.0
+fastapi==0.44.1
 h11==0.8.1                # via uvicorn
 httptools==0.0.13         # via uvicorn
 idna==2.8                 # via email-validator
