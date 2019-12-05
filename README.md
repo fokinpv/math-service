@@ -2,6 +2,11 @@
 
 This service is able to calculate `factorial`, `fibonacci` and `ackermann` functions.
 
+After running the service, API documentation will be availalble
+at the `localhost:8000/docs` or `localhost:8000/redoc`.
+
+And computation results will be at the main page `localhost:8000`
+
 ## Requirments
 
  - Python >= 3.7
